@@ -1,0 +1,48 @@
+body{font-family:arial; 
+     padding: 0 0;
+     margin: 0 0;
+}
+#top{background-color: #6e6e6e;
+      height: auto;
+      width: 100%;
+      float: left;
+     position: relative;
+}
+#hold{position: absolute;
+      left: 5%;
+      top:8%;}
+#nav{ width: 30%;
+     position: absolute;
+     top: 7%;
+     left: 69%;
+}
+li{display: inline;
+   margin-left: 9%;
+}
+a{color: white;
+ font-size: 16px;}
+
+#headtext{
+     position: absolute;
+     top: 49%;
+    left: 0%;
+}
+
+#container2{background-color:#c6bfa5;
+            width: 100%;}
+#container3{background-color:#535154;
+           color: white;
+            width: 100%;
+            }
+#container4{background-color:#414141;
+           color: white;
+           height:348px;
+           width: 100%;
+           }
+#checkbox{width: 30%;
+         height: 40px;
+       }
+hr{width: 100%;
+    float: right;
+    background-color:  grey;
+     height: 5px;}
