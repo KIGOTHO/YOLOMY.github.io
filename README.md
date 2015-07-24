@@ -6,7 +6,7 @@ front-end practice
 ####Development resources used:
 **html
 **css  
-**framework
+**Bootstrap framework
 
 #### Explanation:
 This project has a single home page with an inactive about page inactive.
