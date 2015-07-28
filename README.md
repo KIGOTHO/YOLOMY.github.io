@@ -3,7 +3,7 @@
 Repo containing a single page website.
 front-end practice
 
-####Development resources used:
+####Development resources use:
 **html
 **css  
 **Bootstrap framework
